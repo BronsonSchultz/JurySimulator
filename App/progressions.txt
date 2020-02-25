@@ -1,0 +1,80 @@
+Progression 1, String Set One, Root on Top
+Progression 1, String Set One, 3 on Top
+Progression 1, String Set One, 5 on Top
+Progression 1, String Set One, 7 on Top
+Progression 1, String Set Two, Root on Top
+Progression 1, String Set Two, 3 on Top
+Progression 1, String Set Two, 5 on Top
+Progression 1, String Set Two, 7 on Top
+Progression 2, String Set One, Root on Top
+Progression 2, String Set One, 3 on Top
+Progression 2, String Set One, 5 on Top
+Progression 2, String Set One, 7 on Top
+Progression 2, String Set Two, Root on Top
+Progression 2, String Set Two, 3 on Top
+Progression 2, String Set Two, 5 on Top
+Progression 2, String Set Two, 7 on Top
+Progression 2 (w/ 9th chords), String Set One, 9 on Top
+Progression 2 (w/ 9th chords), String Set One, 3 on Top
+Progression 2 (w/ 9th chords), String Set One, 5 on Top
+Progression 2 (w/ 9th chords), String Set One, 7 on Top
+Progression 2 (w/ 9th chords), String Set Two, 9 on Top
+Progression 2 (w/ 9th chords), String Set Two, 3 on Top
+Progression 2 (w/ 9th chords), String Set Two, 5 on Top
+Progression 2 (w/ 9th chords), String Set Two, 7 on Top
+Progression 3, String Set One, Root on Top
+Progression 3, String Set One, 3 on Top
+Progression 3, String Set One, 5 on Top
+Progression 3, String Set One, 7 on Top
+Progression 3, String Set Two, Root on Top
+Progression 3, String Set Two, 3 on Top
+Progression 3, String Set Two, 5 on Top
+Progression 3, String Set Two, 7 on Top
+Progression 4, String Set One, Root on Top
+Progression 4, String Set One, 3 on Top
+Progression 4, String Set One, 5 on Top
+Progression 4, String Set One, 7 on Top
+Progression 4, String Set Two, Root on Top
+Progression 4, String Set Two, 3 on Top
+Progression 4, String Set Two, 5 on Top
+Progression 4, String Set Two, 7 on Top
+Progression 4 (w/ 9th chords), String Set One, 9 on Top
+Progression 4 (w/ 9th chords), String Set One, 3 on Top
+Progression 4 (w/ 9th chords), String Set One, 5 on Top
+Progression 4 (w/ 9th chords), String Set One, 7 on Top
+Progression 4 (w/ 9th chords), String Set Two, 9 on Top
+Progression 4 (w/ 9th chords), String Set Two, 3 on Top
+Progression 4 (w/ 9th chords), String Set Two, 5 on Top
+Progression 4 (w/ 9th chords), String Set Two, 7 on Top
+Progression 5, String Set One, Root on Top
+Progression 5, String Set One, 3 on Top
+Progression 5, String Set One, 5 on Top
+Progression 5, String Set One, 7 on Top
+Progression 5, String Set Two, Root on Top
+Progression 5, String Set Two, 3 on Top
+Progression 5, String Set Two, 5 on Top
+Progression 5, String Set Two, 7 on Top
+Progression 6, String Set One, Root on Top
+Progression 6, String Set One, 3 on Top
+Progression 6, String Set One, 5 on Top
+Progression 6, String Set One, 7 on Top
+Progression 6, String Set Two, Root on Top
+Progression 6, String Set Two, 3 on Top
+Progression 6, String Set Two, 5 on Top
+Progression 6, String Set Two, 7 on Top
+Progression 7, String Set One, Root on Top
+Progression 7, String Set One, 3 on Top
+Progression 7, String Set One, 5 on Top
+Progression 7, String Set One, 7 on Top
+Progression 7, String Set Two, Root on Top
+Progression 7, String Set Two, 3 on Top
+Progression 7, String Set Two, 5 on Top
+Progression 7, String Set Two, 7 on Top
+Progression 8, String Set One, Root on Top
+Progression 8, String Set One, 3 on Top
+Progression 8, String Set One, 5 on Top
+Progression 8, String Set One, 7 on Top
+Progression 8, String Set Two, Root on Top
+Progression 8, String Set Two, 3 on Top
+Progression 8, String Set Two, 5 on Top
+Progression 8, String Set Two, 7 on Top
